@@ -1,3 +1,7 @@
+
 rvai/
 
 .bag
+.venv
+__pycache__
+.gitignore
